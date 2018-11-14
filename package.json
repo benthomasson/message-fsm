@@ -1,0 +1,11 @@
+{
+  "name": "message-fsm",
+  "version": "1.0.0",
+  "description": "Finite State Machine implementation for message passing architectures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Thomasson",
+  "license": "Apache-2.0"
+}
